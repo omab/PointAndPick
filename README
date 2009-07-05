@@ -1,0 +1,7 @@
+A Gtk screen pixel color picker. It grabs the mouse and ungrabs on click
+selecting the color at the pixel under the mouse. The current color is
+displayed on a box and it's hexadecimal format is listed.
+
+No fancy features yet.
+
+Copyright (C) 2009  Matías Aguirre
